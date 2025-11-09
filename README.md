@@ -37,8 +37,8 @@ Key Skills Demonstrated: Data Cleaning, Data Modeling, DAX, Visualization, Repor
 Dashboard Elements: KPIs, Pie Chart, Bar Chart, Line Chart, and Cards  <br />
 Focus: Brand-wise sales performance and market share comparison  <br />
 
-
-•	Image: <img width="1164" height="654" alt="Snapshot" src="https://github.com/user-attachments/assets/086f8c78-5589-45bd-816a-63ea61e22213" />
+# Output Screenshot
+<img width="1164" height="654" alt="Snapshot" src="https://github.com/user-attachments/assets/086f8c78-5589-45bd-816a-63ea61e22213" />
 
 
 
