@@ -9,7 +9,7 @@ Identified top 5 car models by revenue and brand market value to highlight best-
 Showcased sales trends over time to analyze year-wise performance and growth patterns.
 Integrated company logos and images for a professional, visually appealing dashboard layout.
 
-Tools & Skills Used:
+Tools & Skills Used: 
 Power BI, DAX, Power Query, Data Modeling, Data Visualization, Business Intelligence, Dashboard Design.
 
 Outcome:
